@@ -1,0 +1,247 @@
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+h4, h3, h2, h1, p, a {
+    color: white;
+}
+
+hr {
+    width: 80%;
+}
+
+p {
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 64px;
+    font-weight: bolder;
+}
+
+h2 {
+    font-size: 42px;
+}
+
+h3 {
+    font-size: 32px;
+}
+
+.body, body {
+    color: black;
+  background: repeating-linear-gradient(
+    to right,
+    #bdbdbd,
+    #bdbdbd 3%,
+    #383838 3%,
+    #383838 48.5%);
+}
+
+.top {
+    display: flex;
+    background-color: #0b0b0b;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.story {
+    display: flex;
+    justify-content: center;
+}
+
+.miura {
+    background-image: url(miura.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+
+
+}
+
+body {
+    background-color: #383838;
+    font-family: 'Inter', sans-serif;
+}
+
+.body {
+    background-color: #383838;
+    background-repeat: no-repeat;
+    margin-top: -200px;
+}
+
+
+
+.gt {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.motorsport {
+    background-color: black;
+    opacity: 70%;
+    border-radius: 5%;
+    max-width: 500px;
+    max-height: 350px;
+    padding: 20px;
+    margin-top: 200px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+
+.počátek {
+    background-color: black;
+    opacity: 70%;
+    border-radius: 5%;
+    max-width: 500px;
+    max-height: 350px;
+    padding: 20px;
+    margin-top: 200px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+
+.prvnívůz {
+    background-color: black;
+    opacity: 70%;
+    border-radius: 5%;
+    max-width: 500px;
+    max-height: 350px;
+    padding: 20px;
+    margin-top: 300px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+
+
+.vlastnictví {
+    background-color: black;
+    opacity: 70%;
+    border-radius: 5%;
+    max-width: 500px;
+    max-height: 350px;
+    padding: 20px;
+    margin-top: 200px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+
+
+.investice {
+    background-color: black;
+    opacity: 70%;
+    border-radius: 5%;
+    max-width: 500px;
+    max-height: 350px;
+    padding: 20px;
+    margin-top: 200px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+.současnost {
+    background-color: black;
+    opacity: 70%;
+    border-radius: 5%;
+    max-width: 500px;
+    max-height: 350px;
+    padding: 20px;
+    margin-top: 200px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 300px;
+}
+
+.bottom {
+    background-color: #111111;
+    width: 100%;
+    padding: 20px;
+    padding-right: 50px;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    gap: 15%;
+    margin: 20px;
+    justify-content: center;
+    align-content: center;
+    padding: 20px;
+}
+
+.down {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 15%;
+}
+
+.logos {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 15%;
+    padding-top: 20px;
+}
+
+.up {
+    background-color: #383838;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.body-gallery {
+    overflow-x: hidden;
+}
+
+
+.content {
+    background-color: #0b0b0b;
+    margin-top: -40px;
+
+}
+
+.gallery {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-repeat: no-repeat;
+    background-color: #0b0b0b;
+    margin-top: -40px;
+}
+
+.gallery figure img {
+    -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+.gallery figure:hover img {
+    -webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+.bottom-gallery {
+    background-color: #111111;
+    width: 100%;
+    padding: 20px;
+    padding-right: 50px;
+    bottom: 0;
+    width: 100%;
+}

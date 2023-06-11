@@ -1,0 +1,93 @@
+@media only screen and (min-width: 1024px) {
+.miura {
+    background-size: cover;
+}
+.top {
+    width: 100%;
+}
+
+html, body {
+    width: 100%;
+    margin: 0; 
+    padding: 0; 
+    overflow-x: hidden;
+  }
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.prvnívůz {
+    background-color: black;
+    border-radius: 5%;
+    max-width: 1000px;
+    padding: 30px;
+    margin: 200px auto;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    margin-right: 4.5%;
+    margin-top: 500px;
+}
+
+
+
+.prvnívůz-image {
+    opacity: 100%;
+}
+
+.motorsport {
+    background-color: black;
+    opacity: 0.7;
+    border-radius: 5%;
+    max-width: 1000px;
+    padding: 30px;
+    margin: 200px auto;
+    display: flex;
+    align-items: center;
+    margin-left: 4.5%;
+}
+
+
+
+.vlastnictví {
+    background-color: black;
+    border-radius: 5%;
+    max-width: 1000px;
+    padding: 30px;
+    margin: 200px auto;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    margin-right: 4.5%;
+}
+
+.investice {
+    background-color: black;
+    opacity: 0.7;
+    border-radius: 5%;
+    max-width: 1000px;
+    padding: 30px;
+    margin: 200px auto;
+    display: flex;
+    align-items: center;
+    margin-left: 4.5%;
+}
+
+.současnost {
+    background-color: black;
+    opacity: 0.7;
+    border-radius: 5%;
+    max-width: 1000px;
+    padding: 30px;
+    margin: 200px auto;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    margin-right: 4.5%;
+}
+.story {
+    display: flex;
+    justify-content: center;
+} }
